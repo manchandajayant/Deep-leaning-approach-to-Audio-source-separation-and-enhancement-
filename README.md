@@ -1,3 +1,7 @@
+The separator is re-implmentation of singing voice sepation by A. Jansson, E. Humphrey, N. Montecchio, R. Bittner, A. Kumar, T.
+Weyde, "Singing Voice Separation with Deep U-Nets," ISMIR, 2017
+
+
 Download MUSDB dataset either with the shell script download_musdb.sh
 
 or directly from here :
